@@ -9,7 +9,7 @@ const sobreMi = () => {
   console.log("Además de mis estudios, disfruto explorando nuevas tecnologías y creando proyectos innovadores.")
 }
 ```
-<img img align="right" width="600" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" /> 
+<img img align="right" width="500" height="auto" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" /> 
 
 <div align="center">
  <a href="" target="_blank" ><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
@@ -19,13 +19,16 @@ const sobreMi = () => {
 <div align="center">
   
   <h3>Tecnologias Web 📚</h3>
+
   
-  <p>• HTML, CSS</p>
-  <p>• JavaScript</p>
-  <p>• TypeScript</p>
-  <p>• React</p>
-  <p>• ASP.NET</p>
-  <p>• PostgreSQL</p>
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  <br>
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  <br>
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
   
 </div>
 
