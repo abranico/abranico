@@ -28,8 +28,8 @@
 
 | Project        | Description                                    | Frontend | Backend |
 |----------------|------------------------------------------------|----------|---------|
-| HandyHeroes   | Platform for connecting professionals and clients. | [Frontend](https://github.com/abranico/HandyHeroes) |  |
-| FutbolMatch    | App for organizing soccer matches.            |  | [Backend](https://github.com/abranico/FutbolMatch) |
+| HandyHeroes   | Platform for connecting professionals and clients. | <a href="https://github.com/abranico/HandyHeroes" target="_blank">Frontend</a> |  |
+| FutbolMatch    | App for organizing soccer matches.            |  | <a href="https://github.com/abranico/FutbolMatch" target="_blank">Backend</a> |
 
 
 
