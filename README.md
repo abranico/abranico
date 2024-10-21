@@ -26,10 +26,10 @@
 
 ### 💼 Projects
 
-| Project        | Description                                    | Frontend | Backend |
-|----------------|------------------------------------------------|----------|---------|
-| HandyHeroes   | Platform for connecting professionals and clients. | <a href="https://github.com/abranico/HandyHeroes" target="_blank">Frontend</a> |  |
-| FutbolMatch    | App for organizing soccer matches.            |  | <a href="https://github.com/abranico/FutbolMatch" target="_blank">Backend</a> |
+| Project      | Description                                   | Code                                        | Preview                                      |
+|--------------|-----------------------------------------------|--------------------------------------------|---------------------------------------------|
+| HandyHeroes  | Platform for connecting professionals and clients. | <a href="https://github.com/abranico/handyheroes" target="_blank">Code</a> | [Preview](https://handyheroes.vercel.app/)                                         |
+| FutbolMatch   | App for organizing soccer matches.           | <a href="https://github.com/abranico/FutbolMatch" target="_blank">Code</a> |                                         |
 
 
 
