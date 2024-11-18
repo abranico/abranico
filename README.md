@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-🌍 Full stack web developer currently studying at university.<br>
+🌍 Full Stack Web Developer, graduated as a Programming Technician from Argentina.<br>
 ⚙️ I focus on technologies like React and ASP.NET.<br>
 💅 Beyond my studies, I enjoy exploring new technologies and creating innovative projects.<br>
 
