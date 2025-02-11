@@ -22,16 +22,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+<!--
 ### 💼 Projects
 
 | Project      | Description                                   | Code                                        | Preview                                      |
 |--------------|-----------------------------------------------|--------------------------------------------|---------------------------------------------|
 | HandyHeroes  | Platform for connecting professionals and clients. | <a href="https://github.com/abranico/handyheroes" target="_blank">Code</a> | [Preview](https://handyheroes.vercel.app/)                                         |
 | FutbolMatch   | App for organizing soccer matches.           | <a href="https://github.com/abranico/FutbolMatch" target="_blank">Code</a> |                                         |
-
-
-
-
-
-<br>
-
+*/
